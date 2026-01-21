@@ -1,0 +1,145 @@
+
+.inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  margin: 0;
+  background-color: #1A0B2E;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 85%;
+    margin: 0 auto;
+    padding: 16px;
+    color: #ffffff;
+}
+
+.L-color {
+  background: linear-gradient(
+    90deg,
+    #ff4ecd,
+    #ff8a00
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+
+
+.nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 32px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #eee4e4;
+
+}
+.nav-links a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.nav-links a:hover {
+    color: #007bff;
+}
+
+
+
+.btn:hover {
+    background: rgb(5, 10, 68);
+
+    color: #000000;
+    text-decoration: none;
+}
+
+.nav{
+    border-bottom: 1px solid black;
+}
+
+.banner{
+    background:url(assets/hero-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 1600px;
+    max-height: 760px;
+    margin: 0 auto;
+    padding: 70px 120px 134px 120px ;
+    text-align: center;
+}
+
+.btn1:hover {
+    background-color: #28a745;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.btn{
+    background: linear-gradient(45deg, #30B868, #007bff);
+
+    color: #ffffff;
+    padding: 12px 16px;
+    border: none;
+    border-radius: 100px;
+    text-decoration: none;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.btn1{
+    background: transparent;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    display: inline-flex;
+    align-items: center;
+    padding: 12px 16px;
+    border-radius: 100px;
+    text-decoration: none;
+    font-weight: 600;
+    gap: 4px;
+}
+
+
+.hero-buttons {
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+
+
+.img2{
+    position: absolute;
+  top: 45%;        
+  left: 50%;
+  transform: translate(-50%, -50%);  
+  width: 120px;     
+  height: auto;
+  pointer-events: none;
+}
+
+.banner h1{
+    font-size: 40px;
+
+    color: #ffffff;
+}
+
+.banner p{
+    color: #eee4e4;
+}
+
+
+
+
+
+
+
+
+

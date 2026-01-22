@@ -628,5 +628,82 @@ hr {
 
 
 
+}
+
+
+
+.foot-icon p {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.foot-icon p:hover {
+  transform: translateY(-5px);
+  color: #30B868;
+}
+
+.btn {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.btn:hover {
+  transform: translateY(-5px);
+  color: #30B868;
+}
+
+.btn1 {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.btn1:hover {
+  transform: translateY(-5px);
+  color: #30B868;
+}
+
+.btn2 {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.btn2:hover {
+  transform: translateY(-5px);
+  color: #30B868;
+}
+
+.survay1 {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.survay1:hover {
+  transform: translateY(-5px);
+  color: #30B868;
+}
+
+.survay2 {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.survay2:hover {
+  transform: translateY(-5px);
+  color: #30B868;
+}
+
+.survay3 {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.survay3:hover {
+  transform: translateY(-5px);
+  color: #30B868;
+}
+
+.survay4 {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.survay4:hover {
+  transform: translateY(-5px);
+  color: #30B868;
+}
+
+
 
 

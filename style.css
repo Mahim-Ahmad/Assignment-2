@@ -705,5 +705,15 @@ hr {
 }
 
 
+.hamburger {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.hamburger:hover {
+  transform: translateY(-5px);
+  color: #30B868;
+}
+
+
 
 
